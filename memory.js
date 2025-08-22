@@ -1,6 +1,7 @@
 
 function startGame() {
-    for(let i = 0; i < 20; i++) {
+    let i = 0
+    if(i < 20) {
         console.log("Add a card to the page")
     }
 }
